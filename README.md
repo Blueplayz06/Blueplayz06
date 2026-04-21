@@ -17,18 +17,6 @@
 ---
 
 ## 👾 About Me
-
-```yaml
-name       : Devansh Nayak
-alias      : Dev_21  |  Blueplayz06
-pronouns   : he / him
-location   : Mumbai, India 🇮🇳
-education  : B.E. Computer Engineering
-             Fr. Conceição Rodrigues College of Engineering
-focus      : Cloud Computing (AWS) ☁️
-status     : 3rd Year Student · Actively building
-```
-
 - ☁️ Passionate about **Cloud Computing** and **AWS** infrastructure
 - 🛠️ Love building scalable, real-world solutions from scratch
 - 📚 Currently exploring **AWS services** — EC2, S3, Lambda, and beyond
