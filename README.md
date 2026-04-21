@@ -84,14 +84,12 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Blueplayz06/YOUR-REPO-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Blueplayz06/YOUR-REPO-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)]([https://github.com/Blueplayz06/YOUR-REPO-1](https://github.com/Blueplayz06/Upastithi-Pramaan.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)]([https://github.com/Blueplayz06/YOUR-REPO-2](https://github.com/Blueplayz06/PayPal-Fraud_Detection.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)]([https://github.com/Blueplayz06/YOUR-REPO-2](https://github.com/Blueplayz06/PayPal-Fraud_Detection.git)
 
 </div>
 
-> 📌 *Replace `YOUR-REPO-1` and `YOUR-REPO-2` with your actual repo names above!*
-
----
 
 ## 🌐 Connect With Me
 
@@ -101,7 +99,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Nayak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:devanshnayak2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
