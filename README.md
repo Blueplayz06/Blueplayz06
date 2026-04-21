@@ -21,7 +21,7 @@
 
 - ☁️ Passionate about **Cloud Computing** and **AWS** infrastructure
 - 🛠️ Love building scalable, real-world solutions from scratch
-- 📚 Currently exploring **AWS services** — EC2, S3, Lambda, and beyond
+- 📚 Currently exploring **AWS services** like EC2, S3, Lambda, VPC, DynamoDB, RDS, Sagemaker, Aurora and more
 - 🤝 Open to collaborations, internships, and exciting projects
 - 🌱 Lifelong learner with a knack for solving real-world problems
 
