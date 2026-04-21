@@ -74,7 +74,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Blueplayz06/Upastithi-Pramaan.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Blueplayz06/PayPal-Fraud_Detection.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Blueplayz06/PayPal-Fraud_Detection.git)
 
 </div>
 
