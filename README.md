@@ -4,9 +4,20 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://linkedin.com/in/devansh-nayak-6b471828a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/he%2Fhim-pronouns-blueviolet?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Internships-00D9FF?style=for-the-badge" />
+</div>
+
 ---
 
 ## 👾 About Me
+
 
 - ☁️ Passionate about **Cloud Computing** and **AWS** infrastructure
 - 🛠️ Love building scalable, real-world solutions from scratch
@@ -75,7 +86,7 @@
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=Upastithi-Pramaan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Blueplayz06/Upastithi-Pramaan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=PayPal-Fraud-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Blueplayz06/PayPal-Fraud-Detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=PayPal-Fraud_Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Blueplayz06/PayPal-Fraud_Detection)
 
 </div>
 
@@ -89,7 +100,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Nayak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:devanshnayak2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
