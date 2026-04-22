@@ -4,16 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/devansh-nayak-6b471828a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/he%2Fhim-pronouns-blueviolet?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Internships-00D9FF?style=for-the-badge" />
-</div>
-
 ---
 
 ## 👾 About Me
