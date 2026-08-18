@@ -1,99 +1,88 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Devansh+%F0%9F%91%8B;Cloud+%26+AWS+Enthusiast+%E2%98%81%EF%B8%8F;Computer+Engineering+Student+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Devansh+%F0%9F%91%8B;Cloud+%2F+Infra+%2F+DevSecOps;Building+on+AWS+%26+GCP+%E2%98%81%EF%B8%8F;Currently%3A+SRE+Anomaly+Detection+on+GCP" alt="Typing SVG" />
+
 </div>
 
-<br/>
+### 👋 About Me
+
+- 🎓 Second-year Computer Engineering student, CRCE Mumbai — graduating 2027
+- ☁️ Working toward **Cloud Solutions Architect**, with a near-term focus on **Cloud Infra & DevSecOps**
+- 💼 Currently interning at **Jio (RIL)**, building GCP-based infrastructure
+- 🔭 Right now: building an **automated incident/log anomaly detector** on GCP (Pub/Sub → BigQuery → Looker Studio)
+- 🌱 Working toward **AWS SAA-C03**
+- 🤝 Open to Cloud/DevOps/Infra internships and collaborations
 
 ---
 
-## 👾 About Me
+### 🛠️ Tech Stack
 
-
-- ☁️ Passionate about **Cloud Computing** and **AWS** infrastructure
-- 🛠️ Love building scalable, real-world solutions from scratch
-- 📚 Currently exploring **AWS services** like EC2, S3, Lambda, VPC, DynamoDB, RDS, Sagemaker, Aurora and more
-- 🤝 Open to collaborations, internships, and exciting projects
-- 🌱 Lifelong learner with a knack for solving real-world problems
-
----
-
-## ⚡ Tech Stack
-
-**Cloud & DevOps**
+**Cloud & Infra**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Web & Databases**
+**Web & Data**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Projects
+
+**[TaskFlow](https://github.com/Blueplayz06/TaskFlow)** — Full-stack Trello-like task manager
+Docker + Docker Compose · React/Tailwind/Vite frontend · AWS EC2 (ap-south-1) · PostgreSQL on RDS · GitHub Actions CI/CD · Kanban, Gantt/Timeline, Reports dashboard, notifications
+
+**[Upastithi-Pramaan](https://github.com/Blueplayz06/Upastithi-Pramaan)** — Multi-platform face recognition attendance system
+FastAPI · React + React Native · Supabase PostgreSQL · JWT + 4-layer cryptographic verification · deployed on AWS EC2, S3, SNS, API Gateway
+
+**Incident Anomaly Detector** *(in progress)* — Automated log/incident anomaly detection for SRE workflows
+GCP Pub/Sub → BigQuery → Looker Studio · auto-alerting and incident summarization · built as a 2-person team project
+
+---
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blueplayz06&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blueplayz06&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blueplayz06&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 🗺️ Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blueplayz06&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" />
-</div>
-
----
-
-## 🚀 Pinned Projects
+### 🌐 Connect
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=Upastithi-Pramaan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Blueplayz06/Upastithi-Pramaan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueplayz06&repo=PayPal-Fraud_Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Blueplayz06/PayPal-Fraud_Detection)
+<a href="https://linkedin.com/in/devansh-nayak-6b471828a">
+<img src="https://img.shields.io/badge/LinkedIn-Devansh%20Nayak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:devanshnayak2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Blueplayz06">
+<img src="https://img.shields.io/badge/GitHub-Blueplayz06-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Blueplayz06&label=Profile+Views&color=00D9FF&style=for-the-badge" />
 
-## 🌐 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer&fontSize=20" />
 
-<div align="center">
-
-  <a href="https://linkedin.com/in/devansh-nayak-6b471828a">
-    <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Nayak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:devanshnayak2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Blueplayz06">
-    <img src="https://img.shields.io/badge/GitHub-Blueplayz06-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Blueplayz06&label=Profile+Views&color=00D9FF&style=for-the-badge" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer&fontSize=20" />
 </div>
