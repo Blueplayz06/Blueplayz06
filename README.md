@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-- 🎓 Second-year Computer Engineering student, CRCE Mumbai — graduating 2027
+- 🎓 Final-year Computer Engineering student, Fr.CRCE Mumbai — graduating 2027
 - ☁️ Working toward **Cloud Solutions Architect**, with a near-term focus on **Cloud Infra & DevSecOps**
 - 💼 Currently interning at **Jio (JPL)**, building GCP-based infrastructure
 - 🔭 Right now: building an **automated incident/log anomaly detector** on GCP (Pub/Sub → BigQuery → Looker Studio)
