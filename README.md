@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Devansh+%F0%9F%91%8B;Cloud+%2F+Infra+%2F+DevSecOps;Building+on+AWS+%26+GCP+%E2%98%81%EF%B8%8F;Currently%3A+SRE+Anomaly+Detection+on+GCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Final+year+CS+student+%40+CRCE;Building+on+AWS+%26+GCP+%E2%98%81%EF%B8%8F;Cloud+Infra+%26+DevSecOps;Currently%3A+SRE+Anomaly+Detection+on+GCP" alt="Typing SVG" />
 
 </div>
 
 ### 👋 About Me
 
-- 🎓 Final-year Computer Engineering student, Fr.CRCE Mumbai — graduating 2027
+- 🎓 Final year Computer Engineering student at Fr. Conceicao Rodrigues College of Engineering, Mumbai
 - ☁️ Working toward **Cloud Solutions Architect**, with a near-term focus on **Cloud Infra & DevSecOps**
-- 💼 Currently interning at **Jio (JPL)**, building GCP-based infrastructure
+- 💼 Currently interning at **Jio (RIL)**, building GCP-based infrastructure
 - 🔭 Right now: building an **automated incident/log anomaly detector** on GCP (Pub/Sub → BigQuery → Looker Studio)
 - 🌱 Working toward **AWS SAA-C03**
 - 🤝 Open to Cloud/DevOps/Infra internships and collaborations
@@ -28,9 +28,15 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Web & Data**
 
